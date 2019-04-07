@@ -13,3 +13,6 @@ curse of popularity is diminished to 0.
 
 This notebook also compares both the models and by far the second model beats the first model. The preformance analysis of the models are based
 on AUC(Area Under the Curve).
+
+
+The dataset is in different rar files. Please download all the parts if you need to.
